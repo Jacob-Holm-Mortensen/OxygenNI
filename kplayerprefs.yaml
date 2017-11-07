@@ -1,0 +1,19 @@
+strings:
+  INSTALL_TIMESTAMP: 636452909992357963
+  SaveFilenameKey/: C:\Users\User\Documents\Klei/OxygenNotIncluded\save_files/Invisible Rat's Nest.sav
+ints:
+  SESSION_ID: 9
+  PatchNotesVersion: 5
+  UseWorldSeedKey: 0
+  WorldSeedKey: 1029303358
+  LayoutSeedKey: 1029303358
+  TerrainSeedKey: 1029303358
+  NoiseSeedKey: 1029303358
+  GAME_ID: 1
+  NextUniqueID: 2940
+floats:
+  Volume_SFX: 1
+  Volume_Music: 1
+  Volume_Ambience: 1
+  Volume_Master: 1
+  Volume_UI: 1

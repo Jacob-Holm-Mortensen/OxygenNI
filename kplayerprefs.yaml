@@ -2,7 +2,11 @@ strings:
   INSTALL_TIMESTAMP: 636452909992357963
   SaveFilenameKey/: C:\Users\Jacob\Documents\Klei/OxygenNotIncluded\save_files/Base.sav
 ints:
+<<<<<<< Updated upstream
   SESSION_ID: 20
+=======
+  SESSION_ID: 16
+>>>>>>> Stashed changes
   PatchNotesVersion: 5
   UseWorldSeedKey: 0
   WorldSeedKey: 1029303358

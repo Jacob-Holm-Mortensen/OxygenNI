@@ -1,20 +1,15 @@
 strings:
   INSTALL_TIMESTAMP: 636452909992357963
-  SaveFilenameKey/: C:\Users\Jacob\Documents\Klei/OxygenNotIncluded\save_files/Base.sav
+  SaveFilenameKey/: C:\Users\User\Documents\Klei/OxygenNotIncluded\save_files/Base 2.sav
 ints:
-<<<<<<< Updated upstream
-  SESSION_ID: 20
-=======
-  SESSION_ID: 16
->>>>>>> Stashed changes
+  SESSION_ID: 0
   PatchNotesVersion: 5
+  GAME_ID: 2
   UseWorldSeedKey: 0
-  WorldSeedKey: 1029303358
-  LayoutSeedKey: 1029303358
-  TerrainSeedKey: 1029303358
-  NoiseSeedKey: 1029303358
-  GAME_ID: 1
-  NextUniqueID: 68482
+  WorldSeedKey: 2042578019
+  LayoutSeedKey: 2042578019
+  TerrainSeedKey: 2042578019
+  NoiseSeedKey: 2042578019
 floats:
   Volume_SFX: 1
   Volume_Music: 1

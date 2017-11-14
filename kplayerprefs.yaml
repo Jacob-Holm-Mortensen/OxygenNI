@@ -1,8 +1,8 @@
 strings:
   INSTALL_TIMESTAMP: 636452909992357963
-  SaveFilenameKey/: C:\Users\User\Documents\Klei/OxygenNotIncluded\save_files/auto_save\Invisible Rat's Nest Cycle 51 Cycle 56.sav
+  SaveFilenameKey/: C:\Users\Jacob\Documents\Klei/OxygenNotIncluded\save_files/Base.sav
 ints:
-  SESSION_ID: 15
+  SESSION_ID: 20
   PatchNotesVersion: 5
   UseWorldSeedKey: 0
   WorldSeedKey: 1029303358
@@ -10,7 +10,7 @@ ints:
   TerrainSeedKey: 1029303358
   NoiseSeedKey: 1029303358
   GAME_ID: 1
-  NextUniqueID: 61217
+  NextUniqueID: 68482
 floats:
   Volume_SFX: 1
   Volume_Music: 1
